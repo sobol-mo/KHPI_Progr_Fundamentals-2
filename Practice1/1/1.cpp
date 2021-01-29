@@ -5,8 +5,6 @@
 Написати функцію, яка зводить число х в ступінь y
 */
 #include <iostream>
-#include "windows.h";
-
 using namespace std;
 
 int fun(int x, int y)
