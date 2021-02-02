@@ -15,9 +15,6 @@ int fun(int x, int y)
 
 int main()
 {
-	SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);
-
 	int x, y;
 	// Виклик рекурсивної функції
 	while (true)
