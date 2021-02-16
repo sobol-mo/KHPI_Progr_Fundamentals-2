@@ -1,5 +1,5 @@
 ﻿/*	
-	Покажчики та масиви. Арифметика покажчики
+	Покажчики та масиви. Арифметика покажчиків
 	за матеріалами уроку №47 / 57
 	https://www.youtube.com/watch?v=Weh6UoLkNUQ&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&index=57
 */
