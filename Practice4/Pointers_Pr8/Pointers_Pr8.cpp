@@ -14,6 +14,7 @@ void main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	srand(time(NULL));
+
 	// Встановлення розміру масиву
 	int SIZE = 5;
 
@@ -47,7 +48,7 @@ void main()
 	cout << "Мінімальний елемент:\n";
 	cout << iMin << " " << pMin << " ";
 	cout << *pMin << endl;
-	// Повернення указника на початок масиву знову
+	// Повернення покажчика на початок масиву знову
 	pArr = pArr_start;
 	// Обмін
 	temp = *pMin;

@@ -14,6 +14,7 @@ void main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	srand(time(NULL));
+
 	// Встановлення розміру масиву
 	int SIZE = 10;
 
@@ -69,7 +70,7 @@ void main()
 		pArr_B++;
 	}
 
-	// Повернення указника на початок масиву
+	// Повернення покажчика на початок масиву
 	pArr_A = pArr_A_start;
 	pArr_B = pArr_B_start;
 	// Звільнення пам'яті

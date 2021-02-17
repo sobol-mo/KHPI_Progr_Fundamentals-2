@@ -6,13 +6,15 @@
 
 #include <iostream>
 #include <Windows.h>
-#define N 5
 using namespace std;
+
+#define N 5
 
 void main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
+
 	int A[N] = { 0,1,2,3,4 };
 	int* p[N] = { A, A + 1, A + 2, A + 3, A + 4 };
 	int** pp = p;

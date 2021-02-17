@@ -7,6 +7,7 @@
 
 #include <iostream>
 using namespace std;
+
 #define SIZE 5
 
 void main()
@@ -45,6 +46,5 @@ void main()
 	// Повернення покажчика на початок масиву знову
 	pArr = pArr_start;
 	// Звільнення пам'яті
-	free(pArr);
-	
+	free(pArr);	
 }

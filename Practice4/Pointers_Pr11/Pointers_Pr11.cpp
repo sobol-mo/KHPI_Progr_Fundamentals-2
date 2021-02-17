@@ -14,6 +14,7 @@ void main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	srand(time(NULL));
+
 	// Установка розміру масиву
 	const int SIZE = 6;
 	// Завдання масиву
