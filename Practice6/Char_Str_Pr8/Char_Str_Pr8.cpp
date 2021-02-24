@@ -38,6 +38,7 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
+
 	//char S [] = "3179023";
 	char S[80];
 	cout << "Введіть рядок -> "; gets_s(S);

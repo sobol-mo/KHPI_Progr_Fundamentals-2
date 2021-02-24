@@ -30,6 +30,7 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
+
 	//char S [] = "1111 2222 333 4444 55";
 	char S[80];
 	cout << "Введіть рядок -> "; gets_s(S);

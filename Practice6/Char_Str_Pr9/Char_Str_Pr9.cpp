@@ -38,6 +38,7 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
+
 	char S [] = "111 222 333 444 555 66";
 	/*char S[80];
 	cout << "Введите строку -> "; gets_s(S);*/

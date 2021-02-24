@@ -29,7 +29,8 @@ int psl(char* S, char* S1)
 int main()
 {
 	SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);	
+	SetConsoleOutputCP(1251);
+
 	char S[80];
 	cout << "Введіть рядок -> "; gets_s(S);
 	char S1[80];
